@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on web2, web3 and high-performance apps<br>👯 Always looking to collaborate on innovative projects using cutting-edge tech<br>🌱 I’m currently learning BigData and Advanced DSA<br>⚡ BoS in Applied Maths, thinking about how to make people more productive and efficient and converting those ideas into solutions
+🔭 Working on web2, web3 and high-performance apps<br>👯 Always looking to collaborate on innovative projects using cutting-edge tech<br>⚡ BoS in Applied Maths, thinking about how to make people more productive and efficient and converting those ideas into solutions
 
 
 ## 🌐 Socials:
